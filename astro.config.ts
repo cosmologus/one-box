@@ -15,5 +15,5 @@ export default defineConfig({
 		plugins: [tailwindcss()],
 	},
 	site: "https://cosmologus.github.io",
-	base: "work-schedule-astro",
+	base: "one-box",
 });
