@@ -9,10 +9,11 @@ import alpinejs from "@astrojs/alpinejs";
 
 // https://astro.build/config
 export default defineConfig({
-    site: "https://example.com",
-    integrations: [mdx(), sitemap(), alpinejs()],
+	integrations: [mdx(), sitemap(), alpinejs()],
 
-    vite: {
-        plugins: [tailwindcss()],
-    },
+	vite: {
+		plugins: [tailwindcss()],
+	},
+	site: "https://cosmologus.github.io",
+	base: "work-schedule-astro",
 });
