@@ -2,7 +2,7 @@
 title: "Oxford - AI si invatarea sustinuta"
 description: "Oxford - AI si invatarea sustinuta"
 pubDate: "Feb 09 2025"
-heroImage: "/blog-placeholder-about.jpg"
+heroImage: "/one-box/blog-placeholder-about.jpg"
 ---
 
 ### Ce sa ai in vedere cand folosesti AI:
